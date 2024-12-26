@@ -1,0 +1,14 @@
+/home/arshia/MyProjects/TransfersManager/bin/Debug/net8.0/TransfersManager
+/home/arshia/MyProjects/TransfersManager/bin/Debug/net8.0/TransfersManager.deps.json
+/home/arshia/MyProjects/TransfersManager/bin/Debug/net8.0/TransfersManager.runtimeconfig.json
+/home/arshia/MyProjects/TransfersManager/bin/Debug/net8.0/TransfersManager.dll
+/home/arshia/MyProjects/TransfersManager/bin/Debug/net8.0/TransfersManager.pdb
+/home/arshia/MyProjects/TransfersManager/obj/Debug/net8.0/TransfersManager.GeneratedMSBuildEditorConfig.editorconfig
+/home/arshia/MyProjects/TransfersManager/obj/Debug/net8.0/TransfersManager.AssemblyInfoInputs.cache
+/home/arshia/MyProjects/TransfersManager/obj/Debug/net8.0/TransfersManager.AssemblyInfo.cs
+/home/arshia/MyProjects/TransfersManager/obj/Debug/net8.0/TransfersManager.csproj.CoreCompileInputs.cache
+/home/arshia/MyProjects/TransfersManager/obj/Debug/net8.0/TransfersManager.dll
+/home/arshia/MyProjects/TransfersManager/obj/Debug/net8.0/refint/TransfersManager.dll
+/home/arshia/MyProjects/TransfersManager/obj/Debug/net8.0/TransfersManager.pdb
+/home/arshia/MyProjects/TransfersManager/obj/Debug/net8.0/TransfersManager.genruntimeconfig.cache
+/home/arshia/MyProjects/TransfersManager/obj/Debug/net8.0/ref/TransfersManager.dll
